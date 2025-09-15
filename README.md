@@ -1,1 +1,1 @@
-# Cell pathway activity quantification used in cell state and trajectory inference
+# CellManbo: Cellular Manifold and Biological Oscillations based on pathway activity quantification
